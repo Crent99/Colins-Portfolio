@@ -2,7 +2,7 @@ Homework 2: Colin's Portfolio
 
 Description: A webpage that'll be used by future employers to see what kind of work im capable of (just the start)
 
-Link: 
+Link: https://crent99.github.io/colins-portfolio/
 
 Changelog: 
 
